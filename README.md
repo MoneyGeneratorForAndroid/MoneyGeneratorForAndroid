@@ -3,7 +3,7 @@
 
 NodeJS based Text, Image, File Real Time Chat Room.
 
-[**You can see the live demo here**](http://chat.systenics.com/v1/Chatroom)
+[**You can see the live demo here**](http://chat.systenics.com)
 
   - Provides chat messaging using socket.io
   - Allows file sharing of image,doc,pdf,excel,text and mp3.
